@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ritesh ranka](https://www.linkedin.com/in/ritesh-ranka-19836b236)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh ranka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-ranka-19836b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-ranka-19836b236" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/riteshranka200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riteshranka200" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rn3144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rn3144" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ritesh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritesh2003" height="30" width="40" /></a>
