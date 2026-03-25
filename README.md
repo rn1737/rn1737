@@ -3,21 +3,21 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ritesh+Ranka+👨‍💻;Software+Engineer+%40+Mercor;Full+Stack+Developer+%7C+MERN+Stack;DSA+%26+Competitive+Programmer;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Ritesh+Ranka+👨‍💻;Software+Engineer+%40+Mercor;Full+Stack+Developer+%7C+MERN;DSA+%26+Competitive+Programmer;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-  ***Let's connect! Find me on the web.***
+***Let's connect! Find me on the web.***
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-ranka-19836b236)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://r-itesh-portfolio.vercel.app/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/rn3144)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/riteshranka200)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritesh2003)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshranka2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-ranka-19836b236)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://r-itesh-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/rn3144)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/riteshranka200)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritesh2003)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshranka2003@gmail.com)
 
 </div>
 
@@ -25,9 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Ritesh Ranka** — a Software Engineer working at **Mercor** (Contract Role). I'm passionate about **open source development**, **web development**, **data structures & algorithms**, and **competitive programming**. I have a keen interest in full-stack development and love building softwares, websites, and web apps.
-
-I'm always looking for new challenges and opportunities to learn and grow. Excited to share my work on GitHub and collaborate with the open source community!
+Hi, I'm **Ritesh Ranka** — a Software Engineer working at **Mercor** (Contract Role). I'm passionate about **open source development**, **web development**, **data structures & algorithms**, and **competitive programming**. I love building softwares, websites, and web apps.
 
 - 🔭 Currently working at **Mercor** as a Software Engineer
 - 🌱 Currently learning **System Design, TypeScript & Advanced C++**
@@ -77,12 +75,12 @@ I'm always looking for new challenges and opportunities to learn and grow. Excit
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rn1737&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rn1737&theme=radical&hide_border=true" />
+</div>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rn1737&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rn1737&theme=radical&hide_border=true" />
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn1737&layout=compact&theme=radical&hide_border=true" />
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn1737&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -90,7 +88,7 @@ I'm always looking for new challenges and opportunities to learn and grow. Excit
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rn1737&theme=radical&no-frame=true&row=1&column=7" alt="rn1737" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rn1737&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -98,26 +96,18 @@ I'm always looking for new challenges and opportunities to learn and grow. Excit
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rn1737&theme=redical&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rn1737&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## ⚔️ Competitive Programming Profiles
+## ⚔️ Competitive Programming
 
-| Platform | Handle | Profile |
+| Platform | Handle | Visit |
 |---|---|---|
 | 🟡 LeetCode | rn3144 | [![LeetCode](https://img.shields.io/badge/Visit-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/rn3144) |
 | 🟤 CodeChef | riteshranka200 | [![CodeChef](https://img.shields.io/badge/Visit-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/riteshranka200) |
 | 🟢 GeeksForGeeks | ritesh2003 | [![GFG](https://img.shields.io/badge/Visit-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritesh2003) |
-
----
-
-## 🌐 Portfolio & Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://r-itesh-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh_Ranka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-ranka-19836b236)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshranka2003@gmail.com)
 
 ---
 
@@ -129,6 +119,6 @@ I'm always looking for new challenges and opportunities to learn and grow. Excit
 
 #### Check out my repositories below and get in touch for collaborations!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer" width="100%" />
 
 </div>
