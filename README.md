@@ -1,34 +1,122 @@
-<h1 align="center">Hi 👋, I'm Ritesh Ranka</h1>
-<h3 align="center">A passionate Software Engineer And Full Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rn1737&label=Profile%20views&color=0e75b6&style=flat" alt="rn1737" /> </p>
+```
+██████╗ ██╗████████╗███████╗███████╗██╗  ██╗    ██████╗  █████╗ ███╗   ██╗██╗  ██╗ █████╗
+██╔══██╗██║╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗
+██████╔╝██║   ██║   █████╗  ███████╗███████║    ██████╔╝███████║██╔██╗ ██║█████╔╝ ███████║
+██╔══██╗██║   ██║   ██╔══╝  ╚════██║██╔══██║    ██╔══██╗██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║
+██║  ██║██║   ██║   ███████╗███████║██║  ██║    ██║  ██║██║  ██║██║ ╚████║██║  ██╗██║  ██║
+╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rn1737" alt="rn1737" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Mercor;Full+Stack+Developer;Open+Source+Enthusiast;DSA+%26+Competitive+Programmer" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **C++,HTML,CSS,JAVASCRIPT,REACT.JS,NODE.JS,EXPRESS.JS,MONGODB,NEXT.JS**
+<br/>
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+[![Profile Views](https://komarev.com/ghpvc/?username=rn1737&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rn1737)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d9ff?style=for-the-badge)](https://r-itesh-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-00d9ff?style=for-the-badge)](mailto:riteshranka2003@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://r-itesh-portfolio.vercel.app/](https://r-itesh-portfolio.vercel.app/)
+</div>
 
-- 📫 How to reach me **riteshranka2003@gmail.com**
+---
 
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-ranka-19836b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-ranka-19836b236" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/riteshranka200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riteshranka200" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rn3144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rn3144" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ritesh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritesh2003" height="30" width="40" /></a>
-</p>
+```javascript
+const ritesh = {
+  role       : "Software Engineer @ Mercor (Contract)",
+  location   : "India 🇮🇳",
+  focus      : ["Full Stack Development", "DSA", "Competitive Programming"],
+  learning   : ["System Design", "Next.js", "Advanced C++"],
+  collaborate: "Open Source & Full Stack Projects",
+  portfolio  : "https://r-itesh-portfolio.vercel.app/",
+  funFact    : "I turn ☕ into clean, scalable code.",
+};
+```
 
-<h2>About Me:</h2>
-<p>Hi, I'm a Software Engineer working at Mercor ( Contract Role ). I'm passionate about open source development, web development, web designing, data structures & algorithms, competitive programming and graphic designing. I have a keen interest in full-stack and software development and I love developing softwares, websites, and web apps. I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on GitHub and collaborate with others in the open source community.</p>
+---
 
-<table align="center">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚀 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rn1737&show_icons=true&locale=en&layout=compact" alt="rn1737" /></p>
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rn1737&show_icons=true&locale=en" alt="rn1737" /></p>
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Tools & Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rn1737&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rn1737&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn1737&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rn1737&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-rn3144-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/rn3144)
+[![CodeChef](https://img.shields.io/badge/CodeChef-riteshranka200-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/riteshranka200)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-ritesh2003-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritesh2003)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh_Ranka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-ranka-19836b236)
+[![Portfolio](https://img.shields.io/badge/Portfolio-r--itesh--portfolio.vercel.app-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://r-itesh-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-riteshranka2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshranka2003@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."*
+
+⭐ **If you like my work, drop a star on a repo — it means the world!** ⭐
+
+</div>
