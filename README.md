@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 Hi, I'm **Ritesh Ranka** — a Software Engineer currently working at **Mercor** (Contract Role). I'm passionate about open source development, full-stack web development, system design, and competitive programming.
 
