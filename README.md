@@ -37,7 +37,7 @@ Hi, I'm **Ritesh Ranka** — a Software Engineer working at **Mercor** (Contract
 I have a keen interest in **full-stack development** and love building softwares, websites and web apps. I'm always looking for new challenges and opportunities to learn and grow!
 
 - 🔭 Currently working at **Mercor** as **SDE-1**
-- 🌱 Currently learning **System Design, TypeScript & Advanced C++**
+- 🌱 Expert **System Design, TypeScript & Advanced C++**
 - 👯 Looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Next.js**
 - 📫 Reach me at **riteshranka2003@gmail.com**
