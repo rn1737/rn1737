@@ -88,7 +88,9 @@ Hi, I'm **Ritesh Ranka** — a Software Engineer working at **Mercor** (Contract
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rn1737&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rn1737&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" alt="rn1737 trophies" />
+  </a>
 </div>
 
 ---
