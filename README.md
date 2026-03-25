@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=👋+Hey+%3Ccoders%2F%3E!+I'm+Ritesh+Ranka;⚡+SDE-1+%40+Mercor+(Contract);🚀+MERN+Stack+%7C+Next.js+Developer;🏆+DSA+%26+Competitive+Programmer;🌟+Open+Source+Contributor" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=👋+Hey+%3Ccoders%2F%3E!+I'm+Ritesh+Ranka;⚡+SDE-1+%40+Mercor+(Contract);🚀+MERN+Stack+%7C+Next.js+Developer;🏆+DSA+%26+Competitive+Programmer;🌟+Open+Source+Contributor" /> -->
 
 <br/><br/>
 
