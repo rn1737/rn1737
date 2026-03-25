@@ -1,7 +1,6 @@
 <div align="center">
 
-<!--  ANIMATED SVG BANNER  -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ritesh%20Ranka&fontColor=ffffff&fontSize=70&fontAlignY=55&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=75&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/rn1737/rn1737/main/banner.svg" width="100%" alt="Ritesh Ranka - SDE-1"/>
 
 </div>
 
