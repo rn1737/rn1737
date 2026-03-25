@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://ritesh-portfolio2.vercel.app/](https://ritesh-portfolio2.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://r-itesh-portfolio.vercel.app/](https://r-itesh-portfolio.vercel.app/)
 
 - 📫 How to reach me **riteshranka2003@gmail.com**
 
