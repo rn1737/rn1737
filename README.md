@@ -1,12 +1,19 @@
 <div align="center">
 
+<!--  ANIMATED SVG BANNER  -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ritesh%20Ranka&fontColor=ffffff&fontSize=70&fontAlignY=55&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=75&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=👋+Hey+%3Ccoders%2F%3E!+I'm+Ritesh+Ranka;⚡+SDE-1+%40+Mercor+(Contract);🚀+MERN+Stack+%7C+Next.js+%7C+TypeScript;🏆+DSA+%26+Competitive+Programmer;☁️+AWS+%7C+Docker+%7C+Kubernetes" />
+</div>
 
-<br/>
+---
 
-***Let's connect! Find me on the web.***
+<div align="center">
+
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=👋+Hey+%3Ccoders%2F%3E!+I'm+Ritesh+Ranka;⚡+SDE-1+%40+Mercor+(Contract);🚀+MERN+Stack+%7C+Next.js+Developer;🏆+DSA+%26+Competitive+Programmer;🌟+Open+Source+Contributor" /> -->
+
+<br/><br/>
+
+**Let's connect! Find me on the web.**
 
 <br/>
 
@@ -23,55 +30,54 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
-Hi, I'm **Ritesh Ranka** — a Software Engineer currently working at **Mercor** (Contract Role). I'm passionate about open source development, full-stack web development, system design, and competitive programming.
+Hi, I'm *Ritesh Ranka* — a Software Engineer working at *Mercor* (Contract Role). I'm passionate about open source development, web development, data structures & algorithms, and competitive programming.
 
-I love building scalable, production-grade software — from clean REST APIs to responsive frontends. Always chasing the next challenge and leveling up! 🚀
+I have a keen interest in *full-stack development* and love building softwares, websites and web apps. I'm always looking for new challenges and opportunities to learn and grow!
 
-- 🔭 Currently **SDE-1 @ Mercor** — building real-world systems
-- 🌱 Deep-diving into **System Design, TypeScript & Advanced C++**
-- 👯 Open to collaborate on **Full Stack & Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Next.js, Docker**
-- 📫 Reach me at **riteshranka2003@gmail.com**
-- ⚡ Fun fact: **I turn ☕ into clean, scalable code!**
+- 🔭 Currently working at *Mercor* as *SDE-1*
+- 🌱 Expert *System Design, TypeScript & Advanced C++*
+- 👯 Looking to collaborate on *Full Stack Projects*
+- 💬 Ask me about *React, Node.js, MongoDB, Next.js*
+- 📫 Reach me at *riteshranka2003@gmail.com*
+- ⚡ Fun fact: *I turn ☕ into clean, scalable code!*
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools And Technologies
 
-**💬 Languages**
+*💬 Languages*
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-**🎨 Frontend**
+*🎨 Frontend*
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-**⚙️ Backend & Databases**
+*⚙️ Backend & Databases*
 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**☁️ Cloud & DevOps**
+*☁️ Cloud & DevOps*
 
 ![AWS](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,15 +86,23 @@ I love building scalable, production-grade software — from clean REST APIs to 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
-**🧠 Core CS Concepts**
+*🧠 Core Concepts*
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6B35?style=for-the-badge&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-7B61FF?style=for-the-badge&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-06D6A0?style=for-the-badge&logoColor=white)
-![Low Latency APIs](https://img.shields.io/badge/Low--Latency%20APIs-E63946?style=for-the-badge&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-7B61FF?style=for-the-badge&logoColor=white)
+![Scalability](https://img.shields.io/badge/Scalability-06D6A0?style=for-the-badge&logoColor=white)
 ![Concurrency](https://img.shields.io/badge/Concurrency-FFD60A?style=for-the-badge&logoColor=white)
+![Low Latency APIs](https://img.shields.io/badge/Low--Latency%20APIs-E63946?style=for-the-badge&logoColor=white)
 
-**🔧 Tools & Workflow**
+*🔧 Production Engineering*
+
+![Debugging](https://img.shields.io/badge/Debugging-343a40?style=for-the-badge&logo=gnubash&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-0d6efd?style=for-the-badge&logo=elastic&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-e35d6a?style=for-the-badge&logo=grafana&logoColor=white)
+![Incident Handling](https://img.shields.io/badge/Incident%20Handling-fd7e14?style=for-the-badge&logo=pagerduty&logoColor=white)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-198754?style=for-the-badge&logoColor=white)
+
+*🔨 Tools*
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -113,31 +127,11 @@ I love building scalable, production-grade software — from clean REST APIs to 
 
 ## ⚔️ Competitive Programming
 
-| Platform | Handle | 
+| Platform | Handle |
 |---|---|
-| 🟡 **LeetCode** | [rn3144](https://www.leetcode.com/rn3144) |
-| 🟤 **CodeChef** | [riteshranka200](https://www.codechef.com/users/riteshranka200) |
-| 🟢 **GeeksForGeeks** | [ritesh2003](https://auth.geeksforgeeks.org/user/ritesh2003) |
-
----
-
-## 🚀 What I'm Working On
-
-```text
-🔨  Building scalable full-stack applications @ Mercor
-📚  Mastering System Design & Distributed Systems
-🧩  Solving DSA problems daily on LeetCode
-🌐  Exploring Cloud-Native architecture with AWS + Kubernetes
-```
-
----
-
-## 🤝 Open to Collaborate On
-
-- 💡 Full Stack Web Apps (MERN / Next.js)
-- 🌍 Open Source Projects
-- 🧠 System Design Discussions
-- 🏗️ Backend Engineering & API Design
+| 🟡 *LeetCode* | [rn3144](https://www.leetcode.com/rn3144) |
+| 🟤 *CodeChef* | [riteshranka200](https://www.codechef.com/users/riteshranka200) |
+| 🟢 *GeeksForGeeks* | [ritesh2003](https://auth.geeksforgeeks.org/user/ritesh2003) |
 
 ---
 
