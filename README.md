@@ -32,11 +32,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
-Hi, I'm *Ritesh Ranka* — a Software Engineer working at *Mercor* (Contract Role). I'm passionate about open source development, web development, data structures & algorithms, and competitive programming.
+Hi, I'm *Ritesh Ranka* — a Software Engineer working at Bluecoin IoT Solutions Pvt. Ltd (Software Engineer). I'm passionate about open source development, web development, data structures & algorithms, and competitive programming.
 
 I have a keen interest in *full-stack development* and love building softwares, websites and web apps. I'm always looking for new challenges and opportunities to learn and grow!
 
-- 🔭 Currently working at *Mercor* as *SDE-1*
+- 🔭 Currently working at Bluecoin IoT Solutions Pvt. Ltd (Software Engineer)
 - 🌱 Expert *System Design, TypeScript & Advanced C++*
 - 👯 Looking to collaborate on *Full Stack Projects*
 - 💬 Ask me about *React, Node.js, MongoDB, Next.js*
